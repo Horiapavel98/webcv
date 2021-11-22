@@ -1,0 +1,145 @@
+{
+  "main": {
+    "shortname": "Horia", 
+    "name": "Horia-Tudor Pavel-Simon",
+    "occupation": "Software Engineer",
+    "description": "Devoted, engaged and resilient computer scientist with software engineering industry experience. Oriented towards delivering value and achieving the desired output in everything I do. My passion comes purely from scratching beneath the surface of various technologies and frameworks with the aim of growing a strong knowledge base and a long-lasting career.",
+    "image": "profilepic.jpg",
+    "bio": "Hey there! My name is Horia and I am a delighted to welcome you to my website. Here is a bit about me. A wide palette of aspirations for mathematics, computers and technology combined with skills such as automotive design, photography, video creation and music playing motivated me to develop a get-things-done attitude along with a trained eye for detail. My industry experience is defined by implementing, maintaining and testing microservices, APIs and web servers while also conducting kick-off meetings for starting projects and overseeing work progress. Efficiency in my work has been governed by methodologies such as Agile Software Development, Scrum, TDD, XP and pair-programming. Personal and collaboration projects have always been a great learning opportunity for me. Among my extracurricular accomplishments there are a finance application for beginner investors build in Python, a face-recognition, Raspberry Pi based robot using Google technologies and a cryptocurrency related application for training beginner market speculators.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "horiapavel@yahoo.com",
+    "phone": "+447733973854",
+    "address": {
+      "street": "(Your Street)",
+      "city": "London",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Horia-Pavel-cv-updated.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/pavel.horia.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://linkedin.com/in/hpavel",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Horiapavel98",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "King's College London",
+        "degree": "Master in Science, Computer Science with Software Engineering",
+        "graduated": "May 2021",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Emil Racovita National College",
+        "degree": "Mathematics and Computer Science",
+        "graduated": "Jun 2017",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Super Cool Studio",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
