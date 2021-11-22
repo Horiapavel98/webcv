@@ -5,7 +5,7 @@
     "occupation": "Software Engineer",
     "description": "Devoted, engaged and resilient computer scientist with software engineering industry experience. Oriented towards delivering value and achieving the desired output in everything I do. My passion comes purely from scratching beneath the surface of various technologies and frameworks with the aim of growing a strong knowledge base and a long-lasting career.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Hey there! My name is Horia and I am a delighted to welcome you to my website. Here is a bit about me. A wide palette of aspirations for mathematics, computers and technology combined with skills such as automotive design, photography, video creation and music playing motivated me to develop a get-things-done attitude along with a trained eye for detail. My industry experience is defined by implementing, maintaining and testing microservices, APIs and web servers while also conducting kick-off meetings for starting projects and overseeing work progress. Efficiency in my work has been governed by methodologies such as Agile Software Development, Scrum, TDD, XP and pair-programming. Personal and collaboration projects have always been a great learning opportunity for me. Among my extracurricular accomplishments there are a finance application for beginner investors build in Python, a face-recognition, Raspberry Pi based robot using Google technologies and a cryptocurrency related application for training beginner market speculators.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "horiapavel@yahoo.com",
     "phone": "+447733973854",
@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "Horia-Pavel-cv-updated.pdf",
     "social": [
       {
         "name": "facebook",
@@ -39,15 +39,15 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "King's College London",
+        "degree": "Master in Science, Computer Science with Software Engineering",
+        "graduated": "May 2021",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "Emil Racovita National College",
+        "degree": "Mathematics and Computer Science",
+        "graduated": "Jun 2017",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
